@@ -1,0 +1,53 @@
+table {
+  border: 2px solid black;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 2px solid black;
+  font-size: 1rem;
+}
+
+#captionHeading {
+  font-size: 3rem;
+}
+
+div {
+  background-color: lightgoldenrodyellow;
+  border: 10px solid black;
+  width: 850px;
+  height: 850px;
+}
+
+.secondaryBoard {
+  font-size: 20px;
+  text-align: center;
+}
+
+.secondaryBoard1 {
+  font-size: 18px;
+}
+
+#dateBirth {
+  color: brown;
+}
+
+img {
+  width: 150px;
+  height: 100px;
+}
+
+#gradePoint {
+  text-align: end;
+}
+
+#mainHeading {
+  background-color: red;
+  border: 10px solid black;
+  font-size: 2rem;
+  text-align: center;
+  box-shadow: 10px 10px 10px black;
+  border-radius: 30px;
+}
